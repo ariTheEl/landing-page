@@ -1,0 +1,31 @@
+.div1{
+    background-color: #1F2937;
+    color: cornsilk;
+}
+.div2{
+    padding: 20px 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    justify-content:space-between;
+    display: flex;
+}
+.span1{
+    float:right;
+    display: flex;
+    margin-top: -20px;
+}
+.span1 p{
+    margin: 20px 20px;
+}
+.div3{
+    display: block;
+    border-style: hidden;
+    border:50%;
+
+}
+.div4{
+    background-color: #E5E7EB;
+    color: ;
+    width: 200px;
+    height: 200px;
+    float:right;
+}
