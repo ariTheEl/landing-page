@@ -6,19 +6,17 @@
 .div1{
     
     display: flex;
-    align-items: baseline;
+    justify-content: space-between;
     padding:0 10px;
     
 }
 .div2{
     display: flex;
-}
-
-.div2 p
-{
+    justify-content: space-between;
     padding: 10px;
-    text-align: end
+    
 }
+   
 .div3{
     display:flexbox;
     flex-wrap: wrap;
@@ -78,6 +76,7 @@ border-radius: 10px;
 }
 .cta{
     display: flex;
+    justify-content: space-between;
     margin: 30px;
     border-radius: 10px;
     padding: 10px 50px;
@@ -95,3 +94,7 @@ border-radius: 10px;
     border-radius: 5px;
     color: #F9FAF8;
 }
+.imdiv p{
+   box-sizing: border-box;
+   width: 100px;
+   height: auto;}
